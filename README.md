@@ -17,6 +17,11 @@ This enables Terraform access to the configuration file and performs operations 
 $ terraform init
 $ terraform apply
 ```
+
+It will create the infrastructure like the following: 
+
+https://user-images.githubusercontent.com/6102063/79696267-9cdd2080-8230-11ea-93d0-f7d912c19aa4.png
+
 ## Configure kubectl
 
 The following command will get the access credentials for your cluster and automatically
