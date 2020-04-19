@@ -20,7 +20,7 @@ $ terraform apply
 
 It will create the infrastructure like the following: 
 
-https://user-images.githubusercontent.com/6102063/79696267-9cdd2080-8230-11ea-93d0-f7d912c19aa4.png
+![aurora-eks-peering](https://user-images.githubusercontent.com/6102063/79696267-9cdd2080-8230-11ea-93d0-f7d912c19aa4.png)
 
 ## Configure kubectl
 
